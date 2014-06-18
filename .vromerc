@@ -1,0 +1,2 @@
+" Disable Vrome in those sites, Multiple URLs can be separated with ,
+set disablesites=mail.google.com, feedly.com

@@ -1,0 +1,4 @@
+vrome
+=====
+
+My .vromerc file
